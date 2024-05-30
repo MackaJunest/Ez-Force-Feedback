@@ -17,6 +17,7 @@ This project aims to build a Force Feedback Joystick that provides realistic hap
 - **Power Supply**: External 12V10A power supply for motors.
 - **Enclosure**: Custom 3D-printed housing for all components.
 - **Stick Connection**: Quick-switching electrical connection plug for HOTAS Stick.
+  **HOTAS Stick**: The joystick I'm using is a remix version of [Open Viper HOTAS v0.2](https://www.thingiverse.com/thing:4924037) by [Bacon8tor](https://www.thingiverse.com/bacon8tor/designs) on www.thingiverse.com, I have modified the connector of the stick in order to fit my joystick base.
 
 ### Software:
 - **Programming**: PlatformIO with the Arduino framework.

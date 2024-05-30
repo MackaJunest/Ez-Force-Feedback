@@ -4,7 +4,7 @@ A DIY low-cost Force Feedback Joystick for an immersive gaming experience
 ## Overview
 This project aims to build a Force Feedback Joystick that provides realistic haptic feedback to enhance the gaming experience. The joystick uses a combination of a magnet encoder, two BLDC motors, and an ESP32 to simulate physical forces encountered in virtual environments.
 
-[![Interactive Image](https://github.com/MackaJunest/Ez-Force-Feedback/blob/main/Data/images/Frame000001.png)](https://github.com/MackaJunest/Ez-Force-Feedback/blob/main/Data/index.html)
+[![Interactive Image](https://mackajunest.github.io/Ez-Force-Feedback/)]
 
 ## Features
 

@@ -1,0 +1,67 @@
+:focus-visible {
+    outline: none;
+}
+
+body {
+    margin: 10px;
+    font-family: sans-serif;
+}
+
+header {
+    padding: 0px 0px 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+header .project-name {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.push {
+    margin-left: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.svg-button {
+    border: none;
+    background-color: transparent;
+    padding: 2px 10px;   
+}
+
+.svg-button svg {
+    height: 24px;
+}
+
+.svg-button:hover {
+    background-color: transparent;
+}
+
+.svg-button:hover svg g path {
+    /* DS Blue*/
+    fill: #005685 !important;
+    transition-duration: 0.5s;
+}
+
+#viewer {
+    /* resize: both; */
+    overflow: hidden;
+    display: inline-block;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #eee;
+        background-color: #333;
+    }
+    .svg-button svg g path {
+        fill: #eee !important;
+    }
+}

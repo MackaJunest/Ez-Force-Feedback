@@ -7,6 +7,8 @@ This project aims to build a Force Feedback Joystick that provides realistic hap
 ## Interative Image(Click the image to move)
 [![Interactive Image](https://github.com/MackaJunest/Ez-Force-Feedback/assets/95353708/2badf889-2a61-4303-9135-81babefee2fa)](https://mackajunest.github.io/Ez-Force-Feedback/)
 
+https://github.com/MackaJunest/Ez-Force-Feedback/assets/95353708/a6310e4f-d456-4dee-9755-d5b6acd3e35d
+
 ## Features
 
 ### Hardware:
